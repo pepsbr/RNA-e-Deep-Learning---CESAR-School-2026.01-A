@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+Nome: Pedro Paulo Sant'Anna Belo Ramos
+E-mail: ppsbr@cesar.school
